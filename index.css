@@ -26,4 +26,8 @@
   border-radius: 50px;
   transition: 1s all;
   background-position: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: start;
+  padding: 30px;
 }
